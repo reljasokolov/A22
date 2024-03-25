@@ -1,0 +1,41 @@
+div{
+  height: 60px;
+}
+.div1{
+  width: 10%; float:left;
+  padding-top: 10px;
+  text-align-last: center;
+  font-size: 20px;
+}
+.div2{
+  width: 90%; float:right;
+  padding-top: 10px;
+  font-size: 20px;
+}
+.div3{
+  height: 100px;
+  width: 100%; float:left;
+  padding-top: 30px;
+  font-weight: bold;
+  text-align-last: center;
+  font-size: 30px;
+}
+.div4{
+  height: 100px;
+  width: 100%;
+  padding-top: 30px;
+  font-weight: bold;
+  text-align-last: center;
+  font-size: 10px;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+span{
+  color: white;
+}
+thead{
+  background-color: #7c7a7a;
+  font-weight: bold;
+}
